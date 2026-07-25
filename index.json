@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "37bc4a924f",
+    "type": "deck",
+    "title": "PDF with AI",
+    "subject": "Physics",
+    "tags": [
+      "physics"
+    ],
+    "author": "Mowgli",
+    "path": "decks/physics/pdf-with-ai-37bc4a924f.json",
+    "publishedAt": "2026-07-25T02:31:05.640Z",
+    "cardCount": 17
+  }
+]
