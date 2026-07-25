@@ -76,12 +76,16 @@
     {
       "front": "What the model’s “twisting/coiling” shows",
       "back": "Coiling makes DNA’s nucleotide sequence hard to read, and in the tightly coiled state chromosomes are inactive—no transcription (or protein synthesis) can take place."
+    },
+    {
+      "front": "Hello",
+      "back": "World"
     }
   ],
   "author": {
-    "displayName": "Mowgli"
+    "displayName": "Maryum Ayaz"
   },
   "license": "CC-BY-4.0",
-  "publishedAt": "2026-07-25T02:31:05.640Z",
+  "publishedAt": "2026-07-25T02:46:47.618Z",
   "ownerHash": "08e32884e9d2e08561d6144b6a558a0af50037f582215f496fec8b3357880f87"
 }
