@@ -11,5 +11,18 @@
     "path": "decks/physics/love-5f0b7d06ad.json",
     "publishedAt": "2026-08-01T22:19:03.674Z",
     "cardCount": 4
+  },
+  {
+    "id": "c66b786878",
+    "type": "deck",
+    "title": "History Lesson",
+    "subject": "History",
+    "tags": [
+      "history"
+    ],
+    "author": "Mary",
+    "path": "decks/history/history-lesson-c66b786878.json",
+    "publishedAt": "2026-08-01T22:20:46.864Z",
+    "cardCount": 4
   }
 ]
