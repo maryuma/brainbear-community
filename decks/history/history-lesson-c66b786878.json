@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "brainbear.deck.v1",
+  "id": "c66b786878",
+  "type": "deck",
+  "title": "History Lesson",
+  "subject": "History",
+  "description": "Unit 6",
+  "tags": [
+    "history"
+  ],
+  "cards": [
+    {
+      "front": "Howdy",
+      "back": "Texan way of saying \"Hello\""
+    },
+    {
+      "front": "Hi",
+      "back": "wowzy"
+    },
+    {
+      "front": "Hello",
+      "back": "greetings earthling"
+    },
+    {
+      "front": "Humph",
+      "back": "agitated"
+    }
+  ],
+  "author": {
+    "displayName": "Mary"
+  },
+  "license": "CC-BY-4.0",
+  "publishedAt": "2026-08-01T22:20:46.864Z",
+  "ownerHash": "08e32884e9d2e08561d6144b6a558a0af50037f582215f496fec8b3357880f87"
+}
