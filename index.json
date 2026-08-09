@@ -1,18 +1,5 @@
 [
   {
-    "id": "5f0b7d06ad",
-    "type": "deck",
-    "title": "Love",
-    "subject": "Physics",
-    "tags": [
-      "physics"
-    ],
-    "author": "Izmy",
-    "path": "decks/physics/love-5f0b7d06ad.json",
-    "publishedAt": "2026-08-01T22:19:03.674Z",
-    "cardCount": 4
-  },
-  {
     "id": "c66b786878",
     "type": "deck",
     "title": "History Lesson",
