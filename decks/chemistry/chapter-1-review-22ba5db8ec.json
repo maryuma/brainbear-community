@@ -283,10 +283,6 @@
       "back": "The amount of space an object takes up."
     },
     {
-      "front": "mass",
-      "back": "Amount of matter in an object."
-    },
-    {
       "front": "Weight",
       "back": "a measure of an amount of matter and also the effect of Earth’s gravitational pull on that matter"
     }
@@ -295,6 +291,6 @@
     "displayName": "Mintee"
   },
   "license": "CC-BY-4.0",
-  "publishedAt": "2026-09-07T23:05:44.351Z",
+  "publishedAt": "2026-09-09T01:34:08.791Z",
   "ownerHash": "08e32884e9d2e08561d6144b6a558a0af50037f582215f496fec8b3357880f87"
 }
