@@ -1,0 +1,381 @@
+{
+  "schemaVersion": "brainbear.deck.v1",
+  "id": "6a36c19e8d",
+  "type": "deck",
+  "title": "Arabic Unit 1 Test: War and Peace",
+  "subject": "Arabic Course 5",
+  "description": "",
+  "tags": [
+    "BHA",
+    "Arabic Course 5",
+    "Grade 10"
+  ],
+  "cards": [
+    {
+      "front": "طمأنينة الفرد",
+      "back": "Tranquility of the individual"
+    },
+    {
+      "front": "علاقات اجتماعية",
+      "back": "Social relationships"
+    },
+    {
+      "front": "الإبداع",
+      "back": "Creativity"
+    },
+    {
+      "front": "الحرب",
+      "back": "War"
+    },
+    {
+      "front": "الدول",
+      "back": "Nations / Countries"
+    },
+    {
+      "front": "العسكري",
+      "back": "Military"
+    },
+    {
+      "front": "دمار",
+      "back": "Destruction"
+    },
+    {
+      "front": "أضرار",
+      "back": "Damages"
+    },
+    {
+      "front": "حُلّت الأزمات العالمية الكبرى",
+      "back": "Major global crises were solved"
+    },
+    {
+      "front": "منظم",
+      "back": "Organized"
+    },
+    {
+      "front": "مرتب",
+      "back": "Neat"
+    },
+    {
+      "front": "مدهش",
+      "back": "Amazing"
+    },
+    {
+      "front": "مبدع",
+      "back": "Creative"
+    },
+    {
+      "front": "شجاع",
+      "back": "Brave"
+    },
+    {
+      "front": "متعاون",
+      "back": "Cooperative"
+    },
+    {
+      "front": "مجازف",
+      "back": "Risk-taker"
+    },
+    {
+      "front": "حصة",
+      "back": "Class"
+    },
+    {
+      "front": "الواجب",
+      "back": "Homework"
+    },
+    {
+      "front": "امسح",
+      "back": "Wipe / Erase"
+    },
+    {
+      "front": "رتب مقعدك",
+      "back": "Organize your seat / desk"
+    },
+    {
+      "front": "قص",
+      "back": "Cut"
+    },
+    {
+      "front": "صل",
+      "back": "Match"
+    },
+    {
+      "front": "حلل",
+      "back": "Analyze"
+    },
+    {
+      "front": "ركب",
+      "back": "Assemble"
+    },
+    {
+      "front": "قارن",
+      "back": "Compare"
+    },
+    {
+      "front": "انتبه",
+      "back": "Pay attention"
+    },
+    {
+      "front": "لخص",
+      "back": "Summarize"
+    },
+    {
+      "front": "تأمل",
+      "back": "Reflect"
+    },
+    {
+      "front": "كتاب التدريبات",
+      "back": "Workbook"
+    },
+    {
+      "front": "تعاون",
+      "back": "Cooperate"
+    },
+    {
+      "front": "أطفئ الضوء",
+      "back": "Turn off the light"
+    },
+    {
+      "front": "أشعل الضوء",
+      "back": "Turn on the light"
+    },
+    {
+      "front": "اعتذر لصديقك",
+      "back": "Apologize to your friend"
+    },
+    {
+      "front": "هدوء",
+      "back": "Quiet"
+    },
+    {
+      "front": "تزعج",
+      "back": "Disturb"
+    },
+    {
+      "front": "متحمسون",
+      "back": "Excited"
+    },
+    {
+      "front": "منديلاً",
+      "back": "Tissue paper"
+    },
+    {
+      "front": "أبرئ",
+      "back": "Sharpen"
+    },
+    {
+      "front": "مسطرة",
+      "back": "Ruler"
+    },
+    {
+      "front": "الممرضة",
+      "back": "Nurse"
+    },
+    {
+      "front": "مقصا",
+      "back": "Scissors"
+    },
+    {
+      "front": "صمغا",
+      "back": "Glue"
+    },
+    {
+      "front": "تكرر",
+      "back": "Repeat"
+    },
+    {
+      "front": "كانَ",
+      "back": "was / were"
+    },
+    {
+      "front": "أَصْبَحَ",
+      "back": "became (morning / gradual)"
+    },
+    {
+      "front": "أَضْحَى",
+      "back": "became (forenoon)"
+    },
+    {
+      "front": "ظَلَّ",
+      "back": "remained / kept on"
+    },
+    {
+      "front": "أَمْسَى",
+      "back": "became (evening)"
+    },
+    {
+      "front": "بَاتَ",
+      "back": "became (overnight)"
+    },
+    {
+      "front": "صَارَ",
+      "back": "became / turned into"
+    },
+    {
+      "front": "لَيْسَ",
+      "back": "is not"
+    },
+    {
+      "front": "مَا زَالَ",
+      "back": "still (continues to be)"
+    },
+    {
+      "front": "الحرب",
+      "back": "war"
+    },
+    {
+      "front": "السلام",
+      "back": "peace"
+    },
+    {
+      "front": "الجندي",
+      "back": "soldier"
+    },
+    {
+      "front": "الجنود",
+      "back": "soldiers"
+    },
+    {
+      "front": "الهدنة",
+      "back": "truce / ceasefire"
+    },
+    {
+      "front": "المفاوضات",
+      "back": "negotiations"
+    },
+    {
+      "front": "المعاهدة",
+      "back": "treaty"
+    },
+    {
+      "front": "النزاع",
+      "back": "conflict"
+    },
+    {
+      "front": "الضحايا",
+      "back": "victims"
+    },
+    {
+      "front": "الأمن",
+      "back": "security"
+    },
+    {
+      "front": "الدبلوماسية",
+      "back": "diplomacy"
+    },
+    {
+      "front": "الاستقرار",
+      "back": "stability"
+    },
+    {
+      "front": "الجيش",
+      "back": "army"
+    },
+    {
+      "front": "السلام",
+      "back": "Peace"
+    },
+    {
+      "front": "أمان",
+      "back": "Safety"
+    },
+    {
+      "front": "طمأنينة",
+      "back": "Tranquility"
+    },
+    {
+      "front": "استقرار",
+      "back": "Stability"
+    },
+    {
+      "front": "علاقات إجتماعية",
+      "back": "Social Relationships"
+    },
+    {
+      "front": "الابداع",
+      "back": "Creativity"
+    },
+    {
+      "front": "التقدّم العلمي",
+      "back": "Knowledge progress"
+    },
+    {
+      "front": "تطور",
+      "back": "Development"
+    },
+    {
+      "front": "ازدهار",
+      "back": "Flourish"
+    },
+    {
+      "front": "نماء",
+      "back": "Growth"
+    },
+    {
+      "front": "اِحْتِلال",
+      "back": "Occupation"
+    },
+    {
+      "front": "سِلْمِيّاً",
+      "back": "Peacefully"
+    },
+    {
+      "front": "القَتْلُ وَالدَّمار",
+      "back": "Killing and destruction"
+    },
+    {
+      "front": "الجَيْش",
+      "back": "Army"
+    },
+    {
+      "front": "حُجَّة",
+      "back": "Excuse"
+    },
+    {
+      "front": "اِسْتِعادت / اِسْتعادَ",
+      "back": "Got back"
+    },
+    {
+      "front": "حِصارٌ اِقْتِصادي",
+      "back": "Embargo (Economic siege)"
+    },
+    {
+      "front": "ضَحِيَّة",
+      "back": "Victim"
+    },
+    {
+      "front": "تَدَمَّرَتْ",
+      "back": "Got Destroyed"
+    },
+    {
+      "front": "الأُمَمُ المُتَّحِدَة",
+      "back": "United Nations"
+    },
+    {
+      "front": "لِجانُ تَفْتيش",
+      "back": "Search party/team"
+    },
+    {
+      "front": "أَسْلِحَةُ الدَّمارِ الشَّامِل",
+      "back": "Weapons of mass destruction"
+    },
+    {
+      "front": "حُلَفاء / حَليفٌ",
+      "back": "Allies / Ally"
+    },
+    {
+      "front": "شَنُّ الحَرْب",
+      "back": "Start the war"
+    },
+    {
+      "front": "تَخْليصُ الشَّعْب",
+      "back": "Rescue population/civilians"
+    }
+  ],
+  "author": {
+    "displayName": "Ismaeel"
+  },
+  "license": "CC-BY-4.0",
+  "publishedAt": "2026-09-15T00:16:02.141Z",
+  "ownerHash": "9750a5204ab73151a66970655edfbc65b78f8d8270c61eb8f68b1f3c24137246"
+}
