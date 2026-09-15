@@ -12,5 +12,20 @@
     "path": "decks/chemistry/chapter-1-review-cb097cb769.json",
     "publishedAt": "2026-09-09T22:55:22.746Z",
     "cardCount": 69
+  },
+  {
+    "id": "6a36c19e8d",
+    "type": "deck",
+    "title": "Arabic Unit 1 Test: War and Peace",
+    "subject": "Arabic Course 5",
+    "tags": [
+      "BHA",
+      "Arabic Course 5",
+      "Grade 10"
+    ],
+    "author": "Ismaeel",
+    "path": "decks/arabic-course-5/arabic-unit-1-test-war-and-peace-6a36c19e8d.json",
+    "publishedAt": "2026-09-15T00:16:02.141Z",
+    "cardCount": 90
   }
 ]
