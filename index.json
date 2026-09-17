@@ -27,5 +27,19 @@
     "path": "decks/arabic-course-5/arabic-unit-1-test-war-and-peace-6a36c19e8d.json",
     "publishedAt": "2026-09-15T00:16:02.141Z",
     "cardCount": 90
+  },
+  {
+    "id": "3b6becbdd8",
+    "type": "deck",
+    "title": "Chem. Unit 3 Quiz #1",
+    "subject": "Chemistry",
+    "tags": [
+      "BHA",
+      "Grade 10"
+    ],
+    "author": "Ismaeel",
+    "path": "decks/chemistry/chem-unit-3-quiz-1-3b6becbdd8.json",
+    "publishedAt": "2026-09-17T22:22:19.724Z",
+    "cardCount": 24
   }
 ]
