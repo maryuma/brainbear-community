@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "brainbear.deck.v1",
+  "id": "3b6becbdd8",
+  "type": "deck",
+  "title": "Chem. Unit 3 Quiz #1",
+  "subject": "Chemistry",
+  "description": "",
+  "tags": [
+    "BHA",
+    "Grade 10"
+  ],
+  "cards": [
+    {
+      "front": "What is Dalton’s atomic theory (key ideas)?",
+      "back": "All matter is made of tiny, indivisible particles called atoms. (True)\nAtoms are small, hard spheres. (False)\nAtoms of each element are exactly alike and have the same mass. (False)\nAtoms of different elements can combine to form compounds. (True)"
+    },
+    {
+      "front": "What did J.J. Thomson conclude about atoms?",
+      "back": "Atoms are not simple spheres; they contain subatomic particles, including small negative particles called electrons."
+    },
+    {
+      "front": "What was the cookie/plum pudding model?",
+      "back": "A model where a positive “cookie” with negative “plum/grain” charges embedded represents the atom as a simple mixture."
+    },
+    {
+      "front": "What did Rutherford’s gold foil experiment show?",
+      "back": "Atoms are mostly empty space. Protons are concentrated in the center of the atom, called the nucleus."
+    },
+    {
+      "front": "What does “nucleus” mean in Rutherford’s model?",
+      "back": "The center of the atom where protons are concentrated."
+    },
+    {
+      "front": "How did Bohr modify Rutherford’s model?",
+      "back": "In 1913, Bohr proposed electrons have different amounts of energy and move around the nucleus in energy levels."
+    },
+    {
+      "front": "What are energy levels in the Bohr model?",
+      "back": "Electrons occupy specific energy levels surrounding the nucleus in rings/layers like concentric shells."
+    },
+    {
+      "front": "What is the electron cloud model (accepted model)?",
+      "back": "Electrons dart around in energy levels; rapid random movement creates a “cloud” of negative charge around the nucleus that gives the atom its size and shape."
+    },
+    {
+      "front": "Protons: where are they found and what is their charge?",
+      "back": "Found in the nucleus and have a positive charge."
+    },
+    {
+      "front": "Neutrons: where are they found and what is their charge?",
+      "back": "Found in the nucleus and have no charge (neutral)."
+    },
+    {
+      "front": "Electrons: where are they found and what is their charge?",
+      "back": "Found around the outside of the nucleus and have a negative charge."
+    },
+    {
+      "front": "Atomic number: what does it determine?",
+      "back": "The atomic number is unique to each element and determines the identity of the element."
+    },
+    {
+      "front": "Atomic number in a neutral atom: how is it related to electrons?",
+      "back": "In a neutral atom, the atomic number provides the number of electrons as well."
+    },
+    {
+      "front": "Atomic number equation (as given):",
+      "back": "Atomic Number $=$ Protons $=$ Electrons."
+    },
+    {
+      "front": "Mass number: what does it equal?",
+      "back": "Mass Number is the number of protons plus the number of neutrons in the nucleus."
+    },
+    {
+      "front": "Mass number equation (as given):",
+      "back": "Mass # $= $ Atomic # $+ $ Neutrons."
+    },
+    {
+      "front": "Isotope: what makes two atoms the same element but different isotopes?",
+      "back": "Two or more of the same element with the same number of protons but different number of neutrons."
+    },
+    {
+      "front": "Cation vs. anion: what defines charge and electrons?",
+      "back": "Cation is a positively charged ion formed when an element has one LESS electron. Anion is a negatively charged ion formed when an element has one MORE electron."
+    },
+    {
+      "front": "Ca$^{2+}$: how many electrons does it have?",
+      "back": "18 electrons."
+    },
+    {
+      "front": "P$^{3-}$: how many electrons does it have?",
+      "back": "18 electrons."
+    },
+    {
+      "front": "Example notation question: What are the $p^+$, $e^-$, and $n^0$ values shown for the isotope labeled $6\\,C$ with mass number $12$?",
+      "back": "$p^+ = 6$, $e^- = 6$, $n^0 = 6$."
+    },
+    {
+      "front": "Average atomic mass: what does the periodic table give?",
+      "back": "Average atomic masses are given in the periodic table as the mass number."
+    },
+    {
+      "front": "Average atomic mass: what does it represent?",
+      "back": "A weighted average of the masses of an element’s isotopes."
+    },
+    {
+      "front": "Steps to calculating average atomic mass (as given):",
+      "back": "1) Convert all given percentages into decimals (divide by 100). 2) Multiply each decimal by the isotope mass. 3) Add the numbers together."
+    }
+  ],
+  "author": {
+    "displayName": "Ismaeel"
+  },
+  "license": "CC-BY-4.0",
+  "publishedAt": "2026-09-17T22:22:19.724Z",
+  "ownerHash": "9750a5204ab73151a66970655edfbc65b78f8d8270c61eb8f68b1f3c24137246"
+}
