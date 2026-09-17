@@ -20,7 +20,7 @@
     },
     {
       "front": "What was the cookie/plum pudding model?",
-      "back": "A model where a positive “cookie” with negative “plum/grain” charges embedded represents the atom as a simple mixture."
+      "back": "A model where a positive “cookie” with negative “plum/grain” charges (electrons) embedded represents the atom as a simple mixture."
     },
     {
       "front": "What did Rutherford’s gold foil experiment show?",
@@ -91,26 +91,14 @@
       "back": "18 electrons."
     },
     {
-      "front": "Example notation question: What are the $p^+$, $e^-$, and $n^0$ values shown for the isotope labeled $6\\,C$ with mass number $12$?",
+      "front": "Example notation question: What are the $p^+$, $e^-$, and $n^0$ values shown for the isotope labeled ${}^{12}_{6}\\text{C}$?",
       "back": "$p^+ = 6$, $e^- = 6$, $n^0 = 6$."
-    },
-    {
-      "front": "Average atomic mass: what does the periodic table give?",
-      "back": "Average atomic masses are given in the periodic table as the mass number."
-    },
-    {
-      "front": "Average atomic mass: what does it represent?",
-      "back": "A weighted average of the masses of an element’s isotopes."
-    },
-    {
-      "front": "Steps to calculating average atomic mass (as given):",
-      "back": "1) Convert all given percentages into decimals (divide by 100). 2) Multiply each decimal by the isotope mass. 3) Add the numbers together."
     }
   ],
   "author": {
     "displayName": "Ismaeel"
   },
   "license": "CC-BY-4.0",
-  "publishedAt": "2026-09-17T22:22:19.724Z",
+  "publishedAt": "2026-09-17T22:28:17.143Z",
   "ownerHash": "9750a5204ab73151a66970655edfbc65b78f8d8270c61eb8f68b1f3c24137246"
 }
