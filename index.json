@@ -41,5 +41,19 @@
     "path": "decks/chemistry/chem-unit-3-quiz-1-3b6becbdd8.json",
     "publishedAt": "2026-09-17T22:28:17.143Z",
     "cardCount": 21
+  },
+  {
+    "id": "706141fff3",
+    "type": "deck",
+    "title": "Islamic Studies Unit A Chapters 1-2",
+    "subject": "Islamic Studies",
+    "tags": [
+      "BHA",
+      "Grade 10"
+    ],
+    "author": "Ismaeel",
+    "path": "decks/islamic-studies/islamic-studies-unit-a-chapters-1-2-706141fff3.json",
+    "publishedAt": "2026-09-22T23:18:17.591Z",
+    "cardCount": 33
   }
 ]
