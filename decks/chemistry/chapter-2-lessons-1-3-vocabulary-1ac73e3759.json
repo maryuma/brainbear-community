@@ -2,7 +2,7 @@
   "schemaVersion": "brainbear.deck.v1",
   "id": "1ac73e3759",
   "type": "deck",
-  "title": "Chapter 2 Lessons 1-3 Vocabulary",
+  "title": "Chapter 2 Lessons 1-3 Notes",
   "subject": "Chemistry",
   "description": "Chapter 2 - The Nature of Matter",
   "tags": [
@@ -16,15 +16,15 @@
     },
     {
       "front": "Solid",
-      "back": "A form of matter that has its own definite shape and volume, is incompressible, and expands only slightly when heated."
+      "back": "Has definite shape and volume, particles are packed together, expands slightly when heated, does NOT take shape of container, incompressible"
     },
     {
       "front": "Liquid",
-      "back": "A form of matter that flows, has constant volume, and takes the shape of its container."
+      "back": "Indefinite shape and definite volume, particles are spaced out and it flows, compressible"
     },
     {
       "front": "Gas",
-      "back": "A form of matter that flows to conform to the shape of its container, fills the container’s entire volume, and is easily compressed."
+      "back": "A form of matter that flows to take the shape of its container, fills the container’s entire volume, and is easily compressed. Indefinite shape and volume."
     },
     {
       "front": "Vapor",
@@ -51,16 +51,12 @@
       "back": "A type of change that alters the physical properties of a substance but does not change its composition."
     },
     {
-      "front": "Phase change",
-      "back": "A transition of matter from one state to another."
-    },
-    {
       "front": "Chemical change",
-      "back": "A process involving one or more substances changing into new substances; also called a chemical reaction."
+      "back": "A process involving one or more substances changing into new substance(s); also called a chemical reaction. FORMULA: reactant + reactant = product(s)"
     },
     {
       "front": "Law of conservation of mass",
-      "back": "Mass is neither created nor destroyed during a chemical reaction but is conserved."
+      "back": "Mass is neither created nor destroyed during a chemical reaction but is conserved. FORMULA: Atomic mass of reactants =  Atomic mass of products"
     },
     {
       "front": "Element",
@@ -85,12 +81,40 @@
     {
       "front": "Law of multiple proportions",
       "back": "When different compounds are formed by the combination of the same elements, different masses of one element combine with the same fixed mass of the other element in a ratio of small whole numbers."
+    },
+    {
+      "front": "Plasma",
+      "back": "A form of matter that results when the particles of a gas become ionized and are broken apart into smaller charged particles. (Ionized gas)"
+    },
+    {
+      "front": "Phase Change",
+      "back": "A transition of matter from one state to another."
+    },
+    {
+      "front": "Evaporation",
+      "back": "A phase change: Liquid -> Gas"
+    },
+    {
+      "front": "Condensation",
+      "back": "Gas -> Liquid"
+    },
+    {
+      "front": "Freezing (Solidification)",
+      "back": "Liquid -> Solid"
+    },
+    {
+      "front": "Melting",
+      "back": "Solid -> Liquid"
+    },
+    {
+      "front": "Sublimation",
+      "back": "Solid -> Gas"
     }
   ],
   "author": {
     "displayName": "Maryum"
   },
   "license": "CC-BY-4.0",
-  "publishedAt": "2026-09-25T00:24:53.548Z",
+  "publishedAt": "2026-09-25T01:24:15.838Z",
   "ownerHash": "08e32884e9d2e08561d6144b6a558a0af50037f582215f496fec8b3357880f87"
 }
