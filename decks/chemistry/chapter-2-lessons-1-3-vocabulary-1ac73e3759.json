@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "brainbear.deck.v1",
+  "id": "1ac73e3759",
+  "type": "deck",
+  "title": "Chapter 2 Lessons 1-3 Vocabulary",
+  "subject": "Chemistry",
+  "description": "Chapter 2 - The Nature of Matter",
+  "tags": [
+    "QCA",
+    "Grade 10"
+  ],
+  "cards": [
+    {
+      "front": "State of matter",
+      "back": "The physical forms in which all matter naturally exists on Earth, most commonly as a solid, a liquid, or a gas."
+    },
+    {
+      "front": "Solid",
+      "back": "A form of matter that has its own definite shape and volume, is incompressible, and expands only slightly when heated."
+    },
+    {
+      "front": "Liquid",
+      "back": "A form of matter that flows, has constant volume, and takes the shape of its container."
+    },
+    {
+      "front": "Gas",
+      "back": "A form of matter that flows to conform to the shape of its container, fills the container’s entire volume, and is easily compressed."
+    },
+    {
+      "front": "Vapor",
+      "back": "The gaseous state of a substance that is a liquid or a solid at room temperature."
+    },
+    {
+      "front": "Physical property",
+      "back": "A characteristic of matter that can be observed or measured without changing the sample’s composition (e.g., density, color, taste, hardness, melting point)."
+    },
+    {
+      "front": "Extensive property",
+      "back": "A physical property (such as mass, length, and volume) that depends on the amount of substance present."
+    },
+    {
+      "front": "Intensive property",
+      "back": "A physical property that remains the same no matter how much of a substance is present."
+    },
+    {
+      "front": "Chemical property",
+      "back": "The ability or inability of a substance to combine with or change into one or more new substances."
+    },
+    {
+      "front": "Physical change",
+      "back": "A type of change that alters the physical properties of a substance but does not change its composition."
+    },
+    {
+      "front": "Phase change",
+      "back": "A transition of matter from one state to another."
+    },
+    {
+      "front": "Chemical change",
+      "back": "A process involving one or more substances changing into new substances; also called a chemical reaction."
+    },
+    {
+      "front": "Law of conservation of mass",
+      "back": "Mass is neither created nor destroyed during a chemical reaction but is conserved."
+    },
+    {
+      "front": "Element",
+      "back": "A pure substance that cannot be broken down into simpler substances by physical or chemical means."
+    },
+    {
+      "front": "Periodic table",
+      "back": "A chart that organizes all known elements into a grid of horizontal rows (periods) and vertical columns (groups or families) arranged by increasing atomic number."
+    },
+    {
+      "front": "Compound",
+      "back": "A chemical combination of two or more different elements; can be broken down into simpler substances by chemical means and has properties different from those of its component elements."
+    },
+    {
+      "front": "Law of definite proportions",
+      "back": "Regardless of the amount, a compound is always composed of the same elements in the same proportion by mass."
+    },
+    {
+      "front": "Percent by mass",
+      "back": "A percentage determined by the ratio of the mass of each element to the total mass of the compound."
+    },
+    {
+      "front": "Law of multiple proportions",
+      "back": "When different compounds are formed by the combination of the same elements, different masses of one element combine with the same fixed mass of the other element in a ratio of small whole numbers."
+    }
+  ],
+  "author": {
+    "displayName": "Maryum"
+  },
+  "license": "CC-BY-4.0",
+  "publishedAt": "2026-09-25T00:14:59.952Z",
+  "ownerHash": "08e32884e9d2e08561d6144b6a558a0af50037f582215f496fec8b3357880f87"
+}
