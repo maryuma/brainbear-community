@@ -12,7 +12,7 @@
   "cards": [
     {
       "front": "State of matter",
-      "back": "The physical forms in which all matter naturally exists on Earth, most commonly as a solid, a liquid, or a gas."
+      "back": "The form that matter exists in. Most common: solid, liquid, and gas."
     },
     {
       "front": "Solid",
@@ -91,6 +91,6 @@
     "displayName": "Maryum"
   },
   "license": "CC-BY-4.0",
-  "publishedAt": "2026-09-25T00:14:59.952Z",
+  "publishedAt": "2026-09-25T00:24:53.548Z",
   "ownerHash": "08e32884e9d2e08561d6144b6a558a0af50037f582215f496fec8b3357880f87"
 }
