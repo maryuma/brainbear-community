@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "brainbear.deck.v1",
+  "id": "2699749afe",
+  "type": "deck",
+  "title": "Chemistry Unit 3 Quiz #2",
+  "subject": "Chemistry",
+  "description": "",
+  "tags": [
+    "BHA",
+    "Grade 10"
+  ],
+  "cards": [
+    {
+      "front": "Crest",
+      "back": "The top of the wave."
+    },
+    {
+      "front": "Trough",
+      "back": "The bottom of the wave."
+    },
+    {
+      "front": "Amplitude",
+      "back": "The distance between the level and the crest (indicates wave strength/energy)."
+    },
+    {
+      "front": "Wavelength (λ)",
+      "back": "The distance from one crest to the other."
+    },
+    {
+      "front": "Frequency (ʋ or f)",
+      "back": "The number of times the wavelength goes through space in a certain amount of time."
+    },
+    {
+      "front": "Energy (E)",
+      "back": "The strength of the wave."
+    },
+    {
+      "front": "Low frequency vs high frequency wave trends",
+      "back": "Low frequency = Low Energy = Long Wavelength. \nHigh frequency = High Energy = Short Wavelength."
+    },
+    {
+      "front": "If you double the frequency of a wave, what happens to the wavelength?",
+      "back": "The wavelength is halved."
+    },
+    {
+      "front": "Electromagnetic Radiation (EMR)",
+      "back": "Form of energy that exhibits wavelike behavior as it travels through space."
+    },
+    {
+      "front": "EMR wavelength trend (left to right)",
+      "back": "Wavelength (λ) decreases from left to right (Radio > Gamma)."
+    },
+    {
+      "front": "Rank to decreasing wavelength: UV, radio, gamma rays, and infrared.",
+      "back": "Radio, Infrared, UV, Gamma rays"
+    },
+    {
+      "front": "EMR frequency trend (left to right)",
+      "back": "Frequency (f) increases from left to right (Radio < Gamma)."
+    },
+    {
+      "front": "EMR energy trend (left to right)",
+      "back": "Energy (E) increases from left to right (Radio < Gamma)."
+    },
+    {
+      "front": "Rank to decreasing frequency/energy: violet, UV, microwaves, X-rays.",
+      "back": "X-rays, UV, Violet, Microwaves"
+    },
+    {
+      "front": "EMR spectrum order (using mnemonic)",
+      "back": "Radio → Microwave → Infrared → Visible → Ultraviolet → X-Ray → Gamma."
+    },
+    {
+      "front": "Visible light (what it is)",
+      "back": "Visible light is a small portion of the electromagnetic spectrum and the only part our eyes can detect."
+    },
+    {
+      "front": "Order of colors in increasing energy & frequency",
+      "back": "$\\text{R - O - Y - G - B - I - V}$ (Red, Orange, Yellow, Green, Blue, Indigo, Violet)."
+    },
+    {
+      "front": "Red vs Violet in wavelength, frequency, energy",
+      "back": "Red: longest $\\lambda$, lowest $f$, lowest $E$. Violet: shortest $\\lambda$, highest $f$, highest $E$."
+    },
+    {
+      "front": "Speed of light equation",
+      "back": "$c = \\lambda f$."
+    },
+    {
+      "front": "Photon energy equations",
+      "back": "$E = hf$ or $E = \\frac{hc}{\\lambda}$."
+    },
+    {
+      "front": "Constants and variables",
+      "back": "$E$ in Joules (J)\n$\\lambda$ in meters (m) \n$f$ in Hertz (Hz or s$^{-1}$)"
+    },
+    {
+      "front": "Calculate the energy of a photon with frequency $3.23 \\times 10^7\\,\\text{Hz}$\n($h = 6.626 \\times 10^{-34}$)",
+      "back": "$E = hf = (6.626 \\times 10^{-34})(3.23 \\times 10^7) = 2.14 \\times 10^{-26}\\,\\text{J}$."
+    },
+    {
+      "front": "Calculate the wavelength of a wave with energy $2.34 \\times 10^4\\,\\text{J}$\n($h = 6.626 \\times 10^{-34}$)\n($c = 3.00 \\times 10^8$)",
+      "back": "$\\lambda = \\frac{hc}{E} = \\frac{(6.626 \\times 10^{-34})(3.00 \\times 10^8)}{2.34 \\times 10^4} = 8.49 \\times 10^{-30}\\,\\text{m}$."
+    },
+    {
+      "front": "Steps to calculate average atomic mass",
+      "back": "1) Convert percentage abundances to decimals (divide by $100$). \n2) Multiply each decimal abundance by its isotopic mass. \n3) Add the calculated values for the weighted average."
+    },
+    {
+      "front": "Average atomic mass for Chlorine:\n- Cl-35 (26.44%)\n- Cl-37 (73.56%)",
+      "back": "Using $0.2644\\times35 + 0.7356\\times37 = 36.4712\\,\\text{amu}$, and with 4 sig figs: $36.47\\,\\text{amu}$."
+    },
+    {
+      "front": "Average atomic mass calculations",
+      "back": "Given in 4 sig figs"
+    },
+    {
+      "front": "Wave calculations",
+      "back": "Given in 3 sig figs"
+    }
+  ],
+  "author": {
+    "displayName": "Ismaeel"
+  },
+  "license": "CC-BY-4.0",
+  "publishedAt": "2026-09-27T23:16:33.157Z",
+  "ownerHash": "9750a5204ab73151a66970655edfbc65b78f8d8270c61eb8f68b1f3c24137246"
+}
