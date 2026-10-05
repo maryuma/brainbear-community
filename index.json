@@ -69,5 +69,15 @@
     "path": "decks/chemistry/chemistry-unit-3-quiz-2-2699749afe.json",
     "publishedAt": "2026-09-27T23:44:15.044Z",
     "cardCount": 27
+  },
+  {
+    "id": "44a6a273f7",
+    "type": "guide",
+    "title": "ELA Unit 1 Test Review — Cheat Sheet",
+    "subject": "English",
+    "tags": [],
+    "author": "Maryum",
+    "path": "guides/english/ela-unit-1-test-review-cheat-sheet-44a6a273f7.json",
+    "publishedAt": "2026-10-05T01:39:05.550Z"
   }
 ]
