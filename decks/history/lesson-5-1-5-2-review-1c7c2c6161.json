@@ -108,7 +108,7 @@
     },
     {
       "front": "What is an acropolis?",
-      "back": "An acropolis is a high hilltop in each polis with marble temples like the Parthenon dedicated to Athena."
+      "back": "An acropolis is a high hilltop in each polis with marble temples like the Pantheon and the Parthenon dedicated to Athena."
     },
     {
       "front": "What was the lower walled city like?",
@@ -275,6 +275,6 @@
     "displayName": "Maryum"
   },
   "license": "CC-BY-4.0",
-  "publishedAt": "2026-10-07T02:00:04.939Z",
+  "publishedAt": "2026-10-07T02:03:12.176Z",
   "ownerHash": "08e32884e9d2e08561d6144b6a558a0af50037f582215f496fec8b3357880f87"
 }
