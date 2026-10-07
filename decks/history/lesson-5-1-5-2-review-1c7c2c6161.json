@@ -151,10 +151,6 @@
       "back": "They feared rebellion, so they enforced a strict military system."
     },
     {
-      "front": "What happened to unhealthy Spartan newborns?",
-      "back": "The notes say unhealthy newborns were abandoned."
-    },
-    {
       "front": "At what age did boys enter harsh Spartan military barracks?",
       "back": "At age 7."
     },
@@ -167,7 +163,7 @@
       "back": "Sparta remained isolated and rejected arts and trade."
     },
     {
-      "front": "How did Athens evolve politically from the notes?",
+      "front": "How did Athens evolve politically?",
       "back": "Athens evolved from an aristocracy into a direct democracy due to discontent among commoners."
     },
     {
@@ -275,6 +271,6 @@
     "displayName": "Maryum"
   },
   "license": "CC-BY-4.0",
-  "publishedAt": "2026-10-07T02:03:12.176Z",
+  "publishedAt": "2026-10-07T02:04:54.513Z",
   "ownerHash": "08e32884e9d2e08561d6144b6a558a0af50037f582215f496fec8b3357880f87"
 }
