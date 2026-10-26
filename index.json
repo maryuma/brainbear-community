@@ -103,5 +103,19 @@
     "author": "Maryum",
     "path": "guides/chemistry/chem-3-1-3-2-review-7abcec5246.json",
     "publishedAt": "2026-10-19T01:16:26.562Z"
+  },
+  {
+    "id": "84b76424d1",
+    "type": "deck",
+    "title": "Islamic Studies Unit A Chapters 1-2",
+    "subject": "Islamic Studies",
+    "tags": [
+      "BHA",
+      "Grade 10"
+    ],
+    "author": "Ismaeel",
+    "path": "decks/islamic-studies/islamic-studies-unit-a-chapters-1-2-84b76424d1.json",
+    "publishedAt": "2026-10-26T00:16:47.608Z",
+    "cardCount": 33
   }
 ]
