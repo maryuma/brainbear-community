@@ -117,5 +117,19 @@
     "path": "decks/islamic-studies/islamic-studies-unit-a-chapters-1-2-84b76424d1.json",
     "publishedAt": "2026-10-26T00:16:47.608Z",
     "cardCount": 33
+  },
+  {
+    "id": "53ae372a89",
+    "type": "deck",
+    "title": "Chemistry Unit 5 Quiz #1",
+    "subject": "Chemistry",
+    "tags": [
+      "BHA",
+      "Grade 10"
+    ],
+    "author": "Ismaeel",
+    "path": "decks/chemistry/chemistry-unit-5-quiz-1-53ae372a89.json",
+    "publishedAt": "2026-10-28T00:53:16.429Z",
+    "cardCount": 14
   }
 ]
