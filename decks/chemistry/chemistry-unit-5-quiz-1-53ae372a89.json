@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "brainbear.deck.v1",
+  "id": "53ae372a89",
+  "type": "deck",
+  "title": "Chemistry Unit 5 Quiz #1",
+  "subject": "Chemistry",
+  "description": "",
+  "tags": [
+    "BHA",
+    "Grade 10"
+  ],
+  "cards": [
+    {
+      "front": "Atomic Radius",
+      "back": "The distance from the center of an atom's nucleus to its outermost electron shell"
+    },
+    {
+      "front": "How does atomic radius change down a group?",
+      "back": "It increases down a group because of shielding: core electrons block attraction between nucleus and valence electrons."
+    },
+    {
+      "front": "How does atomic radius change across a period (left to right)?",
+      "back": "It decreases across a period due to increasing protons, which pull the added electrons closer to the nucleus, making the atom small."
+    },
+    {
+      "front": "Ionization energy",
+      "back": "Energy required to overcome attraction of protons and remove one electron from neutral atom of an element."
+    },
+    {
+      "front": "Electronegativity",
+      "back": "Measure of the ability of an atom in a chemical compound to attract electrons when they are chemically combined with an atom of another element."
+    },
+    {
+      "front": "How does ionization energy (IE) and electronegativity (EN) change across a period?",
+      "back": "They increase across a period because more protons makes the nucleus stronger, which leads to a stronger pull on the electrons, making them harder to remove and better at attracting others."
+    },
+    {
+      "front": "How do ionization energy (IE) and electronegativity (EN) change down a group?",
+      "back": "They decrease down a group because as the atom gains more energy levels, the nucleus has weaker pull on the valence electrons, making it easier to remove an electron and harder to attract other electrons."
+    },
+    {
+      "front": "Ionic radius",
+      "back": "Size of the ion of an element when it loses or gains electrons"
+    },
+    {
+      "front": "What happens to ionic radius when cations $(+)$ are formed?",
+      "back": "They lose electrons, becoming smaller due to less electron-electron repulsion."
+    },
+    {
+      "front": "What happens to ionic radius when anions $(-)$ are formed?",
+      "back": "They gain electrons, becoming larger due to increased repulsion."
+    },
+    {
+      "front": "For isoelectronic species with the same electrons, what determines ionic radius?",
+      "back": "Compare protons: fewer protons = weaker nuclear pull = bigger radius; more protons = stronger nuclear pull = smaller radius."
+    },
+    {
+      "front": "Rank in decreasing atomic radius: ${Sr, Mg, Ba}$.",
+      "back": "$\t{Ba > Sr > Mg}$."
+    },
+    {
+      "front": "Rank in increasing electronegativity: ${K, P, F, Cl}$.",
+      "back": "$\t{K < P < Cl < F}$."
+    },
+    {
+      "front": "Rank in decreasing ionic radius: ${P}^{3-}, {S}^{2-}, {Cl}^-, {Ar}$.",
+      "back": "${P}^{3-} > {S}^{2-} > {Cl}^- >{Ar}$ (they are isoelectronic with 18 electrons, so fewer protons means larger)."
+    }
+  ],
+  "author": {
+    "displayName": "Ismaeel"
+  },
+  "license": "CC-BY-4.0",
+  "publishedAt": "2026-10-28T00:53:16.429Z",
+  "ownerHash": "9750a5204ab73151a66970655edfbc65b78f8d8270c61eb8f68b1f3c24137246"
+}
