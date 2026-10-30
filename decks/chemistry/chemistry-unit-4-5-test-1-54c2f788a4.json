@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "brainbear.deck.v1",
+  "id": "54c2f788a4",
+  "type": "deck",
+  "title": "Chemistry Unit 4/5 Test #1",
+  "subject": "Chemistry",
+  "description": "",
+  "tags": [
+    "BHA",
+    "Grade 10"
+  ],
+  "cards": [
+    {
+      "front": "Alpha ($\\alpha$) radiation",
+      "back": "Emits ${}_{2}^{4}\\text{He}$; same as a helium nucleus; lowest penetrating power."
+    },
+    {
+      "front": "Beta ($\\beta$) radiation",
+      "back": "Emits ${}_{-1}^{0}e$; same as an electron; medium penetrating power."
+    },
+    {
+      "front": "Gamma ($\\gamma$) radiation",
+      "back": "Emits ${}_{0}^{0}\\gamma$; no mass + no charge; most damaging / highest penetrating power."
+    },
+    {
+      "front": "Penetrating power order (lowest to highest)",
+      "back": "Alpha ($\\alpha$) < Beta ($\\beta$) < Gamma ($\\gamma$)."
+    },
+    {
+      "front": "Nuclear decay reactions",
+      "back": "Nuclear decay reactions involve changes in an atom’s nucleus that produce radiation (alpha, beta, gamma)."
+    },
+    {
+      "front": "Complete the alpha decay of Uranium-242",
+      "back": "${}_{92}^{242}\\text{U} \\rightarrow {}_{2}^{4}\\text{He} + {}_{90}^{238}\\text{Th}$."
+    },
+    {
+      "front": "Metals vs. nonmetals (general location)",
+      "back": "Metals are mostly on the left of the periodic table; nonmetals are on the right."
+    },
+    {
+      "front": "Metals (properties)",
+      "back": "Make up the majority of the periodic table and are generally good conductors, malleable, ductile, and shiny."
+    },
+    {
+      "front": "Nonmetals (properties)",
+      "back": "Brittle, poor conductors, and dull."
+    },
+    {
+      "front": "Metalloids (location)",
+      "back": "They are along the diagonal stair-step line on the periodic table (Boron (B), Silicon (Si), Germanium (Ge), Arsenic (As), Antimony (Sb), Tellurium (Te))."
+    },
+    {
+      "front": "Groups (columns) on the periodic table",
+      "back": "Elements in the same group have the same number of valence electrons."
+    },
+    {
+      "front": "Group 1 name",
+      "back": "Alkali Metals (most reactive metals)."
+    },
+    {
+      "front": "Group 2 name",
+      "back": "Alkaline Earth Metals (highly reactive, shiny, and silvery-white mostly)."
+    },
+    {
+      "front": "Group 17 (7A) name",
+      "back": "Halogens (most reactive nonmetals)."
+    },
+    {
+      "front": "Group 18 (8A) name",
+      "back": "Noble Gases (non-reactive / stable, full valence shell)."
+    },
+    {
+      "front": "Periods (rows) on the periodic table",
+      "back": "Elements in the same period have the same number of energy levels."
+    },
+    {
+      "front": "Atomic radius trend on periodic table",
+      "back": "Increases $\\downarrow$ down a group.\nDecreases $\\rightarrow$ across a period."
+    },
+    {
+      "front": "Electronegativity/ionization energy trend across a period",
+      "back": "Increases $\\rightarrow$ across a period.\nDecreases $\\downarrow$ down a group."
+    },
+    {
+      "front": "Cation ($+$) ionic radius rule",
+      "back": "Loses electrons $\\rightarrow$ SMALLER."
+    },
+    {
+      "front": "Anion ($-$) ionic radius rule",
+      "back": "Gains electrons $\\rightarrow$ BIGGER."
+    },
+    {
+      "front": "Ionic size for isoelectronic species",
+      "back": "Count protons ($p^+$): more $p^+$ $\\rightarrow$ stronger nuclear pull $\\rightarrow$ SMALLER; less $p^+$ $\\rightarrow$ weaker nuclear pull $\\rightarrow$ BIGGER."
+    },
+    {
+      "front": "Which of $\\text{F, Br, Cl}$ has the largest atomic radius?",
+      "back": "$\\text{Br}$ is largest."
+    },
+    {
+      "front": "Rank in decreasing atomic radius ($\\text{F, Br, Cl}$)",
+      "back": "$\\text{Br} > \\text{Cl} > \\text{F}$."
+    },
+    {
+      "front": "Which ion is bigger: $\\text{Ca}^{2+}$ or $\\text{S}^{2-}$?",
+      "back": "$\\text{S}^{2-}$ is bigger, because both have 18 electrons, but $\\text{Ca}^{2+}$ has 20 protons while $\\text{S}^{2-}$ has 16 protons; more nuclear pull in $\\text{Ca}^{2+}$ makes it smaller."
+    },
+    {
+      "front": "Coulomb's Law",
+      "back": "When the charges get larger between two particles, attraction increases. When the distance between the charges gets larger, attraction decreases."
+    },
+    {
+      "front": "Fission",
+      "back": "A physical process in which the heavy nucleus of an atom splits into two or more smaller nuclei, releasing a massive amount of energy."
+    },
+    {
+      "front": "Fusion (only in the sun)",
+      "back": "A nuclear process that involves 2 small nuclei combining to form 1 bigger nucleus releasing a very large amount of energy, however not more than fission."
+    }
+  ],
+  "author": {
+    "displayName": "Ismaeel"
+  },
+  "license": "CC-BY-4.0",
+  "publishedAt": "2026-10-30T03:00:43.597Z",
+  "ownerHash": "9750a5204ab73151a66970655edfbc65b78f8d8270c61eb8f68b1f3c24137246"
+}
